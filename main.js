@@ -20,8 +20,7 @@ class Field {
     this.gameOver = false;
     this.gameOverReason = "";
     this.gameWon = false;
-
-    console.log(this.fieldArray);
+    // start the game
     this.play();
   }
 
