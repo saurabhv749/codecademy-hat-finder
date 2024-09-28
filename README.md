@@ -1,7 +1,11 @@
 # Hat-Finder
 
-![preview](./assets/preview.png)
 Node.js console based retro game
+
+
+![preview](./assets/preview.png)
+
+
 
 ## Game Goal
 
