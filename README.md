@@ -5,7 +5,7 @@ Node.js console based retro game
 
 ## Game Goal
 
-The Goal of the player is to navigate towards the hat escaping the holes on his way.
+The Goal of the player is to navigate towards the hat, avoiding the holes on his way.
 
 ## Navigation
 
